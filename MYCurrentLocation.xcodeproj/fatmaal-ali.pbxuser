@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MYCurrentLocationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 391}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{0, 539}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MYCurrentLocationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1157}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 758}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MYCurrentLocation */ = {
+		activeExec = 0;
+		executables = (
+			348A5745138E4AA9007D1A8F /* MYCurrentLocation */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MYCurrentLocationViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 391}}";
+			sepNavSelRange = "{228, 0}";
+			sepNavVisRange = "{0, 482}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 348A5745138E4AA9007D1A8F /* MYCurrentLocation */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MYCurrentLocation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MYCurrentLocation */,
+		);
+		codeSenseManager = 348A574B138E4AC7007D1A8F /* Code sense */;
+		executables = (
+			348A5745138E4AA9007D1A8F /* MYCurrentLocation */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 328092329;
+			PBXWorkspaceStateSaveDate = 328092329;
+		};
+		perUserProjectItems = {
+			348A5756138E4C61007D1A8F /* PBXTextBookmark */ = 348A5756138E4C61007D1A8F /* PBXTextBookmark */;
+			348A5758138E4C61007D1A8F /* XCBuildMessageTextBookmark */ = 348A5758138E4C61007D1A8F /* XCBuildMessageTextBookmark */;
+			348A5759138E4C61007D1A8F /* PBXTextBookmark */ = 348A5759138E4C61007D1A8F /* PBXTextBookmark */;
+			348A575F138E4CBC007D1A8F /* PBXTextBookmark */ = 348A575F138E4CBC007D1A8F /* PBXTextBookmark */;
+			348A5760138E64D4007D1A8F /* PBXTextBookmark */ = 348A5760138E64D4007D1A8F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 348A574A138E4AC7007D1A8F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	348A5745138E4AA9007D1A8F /* MYCurrentLocation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MYCurrentLocation;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	348A574A138E4AC7007D1A8F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	348A574B138E4AC7007D1A8F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	348A574C138E4ADB007D1A8F /* CoreLocationController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 391}}";
+			sepNavSelRange = "{606, 0}";
+			sepNavVisRange = "{0, 606}";
+		};
+	};
+	348A5756138E4C61007D1A8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 348A5757138E4C61007D1A8F /* MyCurrentLocationViewController.m */;
+		name = "MyCurrentLocationViewController.m: 30";
+		rLen = 42;
+		rLoc = 764;
+		rType = 0;
+		vrLen = 469;
+		vrLoc = 338;
+	};
+	348A5757138E4C61007D1A8F /* MyCurrentLocationViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MyCurrentLocationViewController.m;
+		path = "/Users/fatmaal-ali/Documents/MyCurrentLocation/Classes/MyCurrentLocationViewController.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1144}}";
+			sepNavSelRange = "{168, 1}";
+			sepNavVisRange = "{0, 720}";
+		};
+	};
+	348A5758138E4C61007D1A8F /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'speedLabel' undeclared (first use in this function)";
+		fRef = 28D7ACF70DDB3853001CB0EB /* MYCurrentLocationViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 31;
+		rType = 1;
+	};
+	348A5759138E4C61007D1A8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 348A575A138E4C61007D1A8F /* MyCurrentLocationViewController.m */;
+		name = "MyCurrentLocationViewController.m: 30";
+		rLen = 0;
+		rLoc = 767;
+		rType = 0;
+		vrLen = 471;
+		vrLoc = 338;
+	};
+	348A575A138E4C61007D1A8F /* MyCurrentLocationViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = MyCurrentLocationViewController.m;
+		path = "/Users/fatmaal-ali/Documents/MyCurrentLocation/Classes/MyCurrentLocationViewController.m";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1144}}";
+			sepNavSelRange = "{168, 1}";
+			sepNavVisRange = "{0, 720}";
+		};
+	};
+	348A575F138E4CBC007D1A8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 348A5757138E4C61007D1A8F /* MyCurrentLocationViewController.m */;
+		name = "MyCurrentLocationViewController.m: 8";
+		rLen = 1;
+		rLoc = 168;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 0;
+	};
+	348A5760138E64D4007D1A8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 348A575A138E4C61007D1A8F /* MyCurrentLocationViewController.m */;
+		name = "MyCurrentLocationViewController.m: 8";
+		rLen = 1;
+		rLoc = 168;
+		rType = 0;
+		vrLen = 720;
+		vrLoc = 0;
+	};
+}

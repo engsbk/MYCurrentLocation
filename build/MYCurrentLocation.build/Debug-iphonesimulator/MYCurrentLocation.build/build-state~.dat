@@ -1,0 +1,310 @@
+TMYCurrentLocation
+v7
+r0
+t328092747.181418
+cCheck dependencies
+cProcessInfoPlistFile /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/Info.plist MYCurrentLocation-Info.plist
+cCompileXIB /Users/fatmaal-ali/Documents/MYCurrentLocation/MainWindow.xib
+cCompileXIB /Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocationViewController.xib
+cProcessPCH /var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch.gch MYCurrentLocation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/main.o /Users/fatmaal-ali/Documents/MYCurrentLocation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationAppDelegate.o /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationViewController.o /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/CoreLocationController.o /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004D106C580000000000000110
+t1292921944
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CAC0218000000000029B310
+t1286341144
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CAC12F300000000000001D0
+t1286345459
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CAC0237000000000029D5D0
+t1286341175
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CAC02230000000000001466
+t1286341155
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CAC13700000000000000AA1
+t1286345584
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CAC141C000000000074B110
+t1286345756
+s7647504
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.h
+c000000004DDE149D000000000000025E
+t1306399901
+s606
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.m
+c000000004DDE14B200000000000003EB
+t1306399922
+s1003
+i"CoreLocationController.h"
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.h
+c000000004DDE1329000000000000021B
+t1306399529
+s539
+i<UIKit/UIKit.h>
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.m
+c000000004DDE13290000000000000AC7
+t1306399529
+s2759
+i"MYCurrentLocationAppDelegate.h"
+i"MYCurrentLocationViewController.h"
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.h
+c000000004DDE143400000000000001E2
+t1306399796
+s482
+i<UIKit/UIKit.h>
+i"CoreLocationController.h"
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m
+c000000004DDE147000000000000008C9
+t1306399856
+s2249
+i"MYCurrentLocationViewController.h"
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocationViewController.xib
+c000000004DDE14C80000000000004EBD
+t1306399944
+s20157
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocation_Prefix.pch
+c000000004DDE132900000000000000CB
+t1306399529
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/MainWindow.xib
+c000000004DDE13290000000000004EA1
+t1306399529
+s20129
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app
+t2
+s0
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app.dSYM
+t2
+s0
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/Info.plist
+t1306399945
+s637
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/MYCurrentLocation
+t2
+s0
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/MYCurrentLocationViewController.nib
+t1306399946
+s1495
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/MainWindow.nib
+t1306399946
+s1143
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/PkgInfo
+t1306399945
+s8
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/CoreLocationController.o
+t1306399947
+s15632
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocation.LinkFileList
+c000000004DDE14C9000000000000029D
+t1306399945
+s669
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationAppDelegate.o
+t1306399947
+s51944
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationViewController.o
+t2
+s0
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/main.o
+t1306399947
+s6320
+
+N/Users/fatmaal-ali/Documents/MYCurrentLocation/main.m
+c000000004DDE13290000000000000173
+t1306399529
+s371
+i<UIKit/UIKit.h>
+
+N/var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch.gch
+t1306399946
+s15453392
+
+NMYCurrentLocation-Info.plist
+c000000004DDE1329000000000000038D
+t1306399529
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328092745#328092745#0(0"0(0#1#0"8614459232#0"0#
+
+CCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/CoreLocationController.o /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328092747.116928
+e328092747.181344
+r1
+xCompileC
+xbuild/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/CoreLocationController.o
+x/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.m328092747#328092747#0(0"0(0#0#79"/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.m8604092064#2246"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-generated-files.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-own-target-headers.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-all-target-headers.hmap -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-project-headers.hmap -F/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/include -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources/i386 -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources -include /var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch -c /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/CoreLocationController.m -o /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/CoreLocationController.o0#
+
+CCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationAppDelegate.o /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328092747.037161
+e328092747.116829
+r1
+xCompileC
+xbuild/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationAppDelegate.o
+x/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.m328092747#328092747#0(0"0(0#0#85"/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.m8618286272#2258"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-generated-files.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-own-target-headers.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-all-target-headers.hmap -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-project-headers.hmap -F/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/include -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources/i386 -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources -include /var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch -c /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationAppDelegate.m -o /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationAppDelegate.o0#
+
+CCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationViewController.o /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328092747.090381
+e328092747.146595
+r0
+xCompileC
+xbuild/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationViewController.o
+x/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m: In function '-[MYCurrentLocationViewController locationUpdate:]':
+o/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:25: error: 'speedLabel' undeclared (first use in this function)
+o/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:25: error: (Each undeclared identifier is reported only once
+o/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:25: error: for each function it appears in.)
+o/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:28: error: 'altitudeLabel' undeclared (first use in this function)
+o/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m: In function '-[MYCurrentLocationViewController locationError:]':
+o/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:32: error: 'speedLabel' undeclared (first use in this function)
+o{standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+o{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+o{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:102:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:102:symbol: "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:94:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+o{standard input}:94:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:87:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:87:symbol: "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:79:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+o{standard input}:79:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:73:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:73:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:70:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+o{standard input}:70:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:65:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:65:symbol: "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+lSLF07#2@96"Compile /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m328092747#328092747#0(4500"/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m: In function '-[MYCurrentLocationViewController locationUpdate:]':/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:25: error: 'speedLabel' undeclared (first use in this function)/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:25: error: (Each undeclared identifier is reported only once/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:25: error: for each function it appears in.)/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:28: error: 'altitudeLabel' undeclared (first use in this function)/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m: In function '-[MYCurrentLocationViewController locationError:]':/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m:32: error: 'speedLabel' undeclared (first use in this function){standard input}:114:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"{standard input}:114:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:108:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"{standard input}:108:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:102:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" minus "L00000000001$pb"{standard input}:102:symbol: "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:94:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"{standard input}:94:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:87:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" minus "L00000000001$pb"{standard input}:87:symbol: "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:79:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"{standard input}:79:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:73:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:73:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:70:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"{standard input}:70:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:65:non-relocatable subtraction expression, "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" minus "L00000000001$pb"{standard input}:65:symbol: "L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:58:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:58:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:54:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:54:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_MYCurrentLocationViewController.CLController$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_43(4@52"'speedLabel' undeclared (first use in this function)328092747#156#153#0(6@88"/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m328092656#25#0#25#0#43"'*' undeclared (first use in this function)0(4@55"'altitudeLabel' undeclared (first use in this function)328092747#593#156#0(6@88"/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m328092656#28#0#28#0#43"'*' undeclared (first use in this function)0(4@52"'speedLabel' undeclared (first use in this function)328092747#904#153#0(6@88"/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m328092656#32#0#32#0#43"'*' undeclared (first use in this function)0(0#0#88"/Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m8612749728#2264"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-generated-files.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-own-target-headers.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-all-target-headers.hmap -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-project-headers.hmap -F/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/include -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources/i386 -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources -include /var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch -c /Users/fatmaal-ali/Documents/MYCurrentLocation/Classes/MYCurrentLocationViewController.m -o /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/MYCurrentLocationViewController.o1#
+
+CCompileC build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/main.o /Users/fatmaal-ali/Documents/MYCurrentLocation/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328092747.035645
+e328092747.090277
+r1
+xCompileC
+xbuild/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/main.o
+x/Users/fatmaal-ali/Documents/MYCurrentLocation/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/fatmaal-ali/Documents/MYCurrentLocation/main.m328092747#328092747#0(0"0(0#0#53"/Users/fatmaal-ali/Documents/MYCurrentLocation/main.m8621633792#2202"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-generated-files.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-own-target-headers.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-all-target-headers.hmap -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-project-headers.hmap -F/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/include -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources/i386 -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources -include /var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch -c /Users/fatmaal-ali/Documents/MYCurrentLocation/main.m -o /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocationViewController.xib
+s328092745.880400
+e328092746.330870
+r1
+xCompileXIB
+x/Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocationViewController.xib
+lSLF07#2@46"CompileXIB MYCurrentLocationViewController.xib328092745#328092746#0(0"0(0#0#82"/Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocationViewController.xib8613799616#646"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/MYCurrentLocationViewController.nib /Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocationViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/fatmaal-ali/Documents/MYCurrentLocation/MainWindow.xib
+s328092745.879798
+e328092746.199143
+r1
+xCompileXIB
+x/Users/fatmaal-ali/Documents/MYCurrentLocation/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328092745#328092746#0(0"0(0#0#61"/Users/fatmaal-ali/Documents/MYCurrentLocation/MainWindow.xib8614096768#604"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/MainWindow.nib /Users/fatmaal-ali/Documents/MYCurrentLocation/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app.dSYM /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/MYCurrentLocation
+r0
+
+CLd /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/MYCurrentLocation normal i386
+r0
+
+CProcessInfoPlistFile /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/Info.plist MYCurrentLocation-Info.plist
+s328092745.876853
+e328092745.879731
+r1
+xProcessInfoPlistFile
+x/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/Info.plist
+xMYCurrentLocation-Info.plist
+lSLF07#2@36"Process MYCurrentLocation-Info.plist328092745#328092745#0(0"0(0#0#75"/Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocation-Info.plist8614957600#533"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MYCurrentLocation-Info.plist -genpkginfo /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app/Info.plist0#
+
+CProcessPCH /var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch.gch MYCurrentLocation_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328092746.330987
+e328092747.035387
+r1
+xProcessPCH
+x/var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch.gch
+xMYCurrentLocation_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile MYCurrentLocation_Prefix.pch328092746#328092747#0(0"0(0#0#75"/Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocation_Prefix.pch8616840320#2076"    cd /Users/fatmaal-ali/Documents/MYCurrentLocation    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-generated-files.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-own-target-headers.hmap -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-all-target-headers.hmap -iquote /Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/MYCurrentLocation-project-headers.hmap -F/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/include -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources/i386 -I/Users/fatmaal-ali/Documents/MYCurrentLocation/build/MYCurrentLocation.build/Debug-iphonesimulator/MYCurrentLocation.build/DerivedSources -c /Users/fatmaal-ali/Documents/MYCurrentLocation/MYCurrentLocation_Prefix.pch -o /var/folders/q3/q3ZXDb2tGOyCWTU9h47rL++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MYCurrentLocation_Prefix-fmsnytpthcxvtgeawcjfyahwgxxz/MYCurrentLocation_Prefix.pch.gch0#
+
+CTouch /Users/fatmaal-ali/Documents/MYCurrentLocation/build/Debug-iphonesimulator/MYCurrentLocation.app
+r0
+
